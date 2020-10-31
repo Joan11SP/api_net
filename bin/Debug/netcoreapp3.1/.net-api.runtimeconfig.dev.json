@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/bruja/.dotnet/store/|arch|/|tfm|",
+      "/home/bruja/.nuget/packages"
+    ]
+  }
+}
